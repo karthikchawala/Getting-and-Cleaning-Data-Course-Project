@@ -1,4 +1,4 @@
-
+## Getting and Cleaning Data Course Project
 Repo for submitting course project for Getting and Cleaning Data course.
 
 ### Overview
